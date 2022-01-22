@@ -1,0 +1,134 @@
+[
+    {
+        "photo":"team-1.jpg",
+        "name":"Ruth Wood",
+        "position":"Founder, CEO",
+        "description":"Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+        "soc":[
+            {
+                "icon":"fa-facebook",
+                "link":""
+            },
+            {
+                "icon":"fa-twitter",
+                "link":""
+            },
+            {
+                "icon":"fa-linkedin",
+                "link":""
+            },
+            {
+                "icon":"fa-google-plus",
+                "link":""
+            },
+            {
+                "icon":"fa-dribbble",
+                "link":""
+            }
+        ]
+    },
+    {
+        "photo":"team-2.jpg",
+        "name":"Timothy Reed",
+        "position":"Co-Founder, Developer",
+        "description":"Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+        "soc":[
+            {
+                "icon":"fa-facebook",
+                "link":""
+            },
+            {
+                "icon":"fa-twitter",
+                "link":""
+            },
+            {
+                "icon":"fa-linkedin",
+                "link":""
+            },
+            {
+                "icon":"fa-google-plus",
+                "link":""
+            },
+            {
+                "icon":"fa-dribbble",
+                "link":""
+            }
+        ]
+    },
+    {
+        "photo":"team-3.jpg",
+        "name":"Victoria Valdez",
+        "position":"UI Designer",
+        "description":"Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+        "soc":[
+            {
+                "icon":"fa-facebook",
+                "link":""
+            },
+            {
+                "icon":"fa-twitter",
+                "link":""
+            },
+            {
+                "icon":"fa-linkedin",
+                "link":""
+            },
+            {
+                "icon":"fa-google-plus",
+                "link":""
+            },
+            {
+                "icon":"fa-dribbble",
+                "link":""
+            }
+        ]
+    },
+    {
+        "photo":"team-4.jpg",
+        "name":"Beverly Little",
+        "position":"Data Scientist",
+        "description":"Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+        "soc":[
+            {
+                "icon":"fa-facebook",
+                "link":""
+            },
+            {
+                "icon":"fa-twitter",
+                "link":""
+            },
+            {
+                "icon":"fa-linkedin",
+                "link":""
+            },
+            {
+                "icon":"fa-google-plus",
+                "link":""
+            },
+            {
+                "icon":"fa-dribbble",
+                "link":""
+            }
+        ]
+    },
+    {
+        "photo":"team-3.jpg",
+        "name":"Annie",
+        "position":"Data Scientist",
+        "description":"Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+        "soc":[
+            {
+                "icon":"fa-facebook",
+                "link":""
+            },
+            {
+                "icon":"fa-twitter",
+                "link":""
+            },
+            {
+                "icon":"fa-linkedin",
+                "link":""
+            }
+        ]
+    }
+]
